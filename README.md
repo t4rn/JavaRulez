@@ -1,2 +1,2 @@
 # JavaRulez
-Testowa aplikacja w Java
+Test application in Java language
